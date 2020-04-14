@@ -1,5 +1,4 @@
 # Customer-Segmentation-Report-for-Arvato-Financial-Services
-Create a customer segmentation report for Arvato Financial Services
 
 In this project, we will analyze demographics data for customers of a mail-order sales company in Germany, 
 comparing it against demographics information for the general population. We'll use unsupervised learning 
