@@ -13,7 +13,7 @@ are most likely to convert into becoming customers for the company.
 - Jupyter Notebook 6.0.3
 
 ## Project Files
-- **0. Get to Know the Data.ipynb**: description of the dataset
+- **0. Get to Know the Data.ipynb**
 - **1. Customer Segmentation Report.ipynb**
   - **DIAS_features_info.xlsx**: features' information
 - **2. Supervised Learning Model and Kaggle Competition.ipynb**
