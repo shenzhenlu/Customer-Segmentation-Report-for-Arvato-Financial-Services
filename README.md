@@ -15,9 +15,9 @@ are most likely to convert into becoming customers for the company.
 ## Project Files
 - **0. Get to Know the Data.ipynb**: description of the dataset
 - **1. Customer Segmentation Report.ipynb**
-- **DIAS_features_info.xlsx**: features' information
+  - **DIAS_features_info.xlsx**: features' information
 - **2. Supervised Learning Model and Kaggle Competition.ipynb**
-- **features_with_description_cleaning.py**: contains the function cleaning the features with description
+  - **features_with_description_cleaning.py**: contains the function cleaning the features with description
 - **Capstone Report.pdf**: final report of the project
 
 # License
